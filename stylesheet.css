@@ -1,0 +1,7 @@
+/* CSS Stylesheet Create a and some shared style between the two html files. */
+h1{
+    color:darkblue
+}
+.smallerText {
+    font-size: small;
+}
